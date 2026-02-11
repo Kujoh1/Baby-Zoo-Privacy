@@ -1,8 +1,8 @@
-# Baby Zoo – Datenschutz
+# BabyZoo – Privacy Policy
 
-Datenschutzerklärung für die App **Baby Zoo**.
+Privacy policy and legal notice for the app **BabyZoo**.
 
-- **Webseite (HTML):** [kujoh1.github.io/Baby-Zoo-Privacy](https://kujoh1.github.io/Baby-Zoo-Privacy/)
-- **Kurz:** Baby Zoo erfasst keine personenbezogenen Daten. Einstellungen und Abo-Status nur lokal auf dem Gerät. In-App-Käufe über Apple.
+- **Live page:** [kujoh1.github.io/Baby-Zoo-Privacy](https://kujoh1.github.io/Baby-Zoo-Privacy/)
+- **Summary:** No personal data collected. Local storage only (e.g. subscription status). In-app purchases via Apple. No ads or tracking.
 
-*Stand: Februar 2025*
+Replace the placeholders in `index.html` (name, address, email, date) with your details. The page uses `noindex, nofollow` so search engines are asked not to index it.
